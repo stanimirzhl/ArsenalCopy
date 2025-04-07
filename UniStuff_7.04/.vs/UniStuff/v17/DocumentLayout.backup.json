@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student4\\Desktop\\UniStuff\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{562A24B3-4672-4A9E-A475-85F18486497F}|UniStuff\\UniStuff.csproj|c:\\users\\student4\\desktop\\unistuff\\unistuff\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{562A24B3-4672-4A9E-A475-85F18486497F}|UniStuff\\UniStuff.csproj|solutionrelative:unistuff\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562A24B3-4672-4A9E-A475-85F18486497F}|UniStuff\\UniStuff.csproj|c:\\users\\student4\\desktop\\unistuff\\unistuff\\presentation\\display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{562A24B3-4672-4A9E-A475-85F18486497F}|UniStuff\\UniStuff.csproj|solutionrelative:unistuff\\presentation\\display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562A24B3-4672-4A9E-A475-85F18486497F}|UniStuff\\UniStuff.csproj|c:\\users\\student4\\desktop\\unistuff\\unistuff\\data\\unidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{562A24B3-4672-4A9E-A475-85F18486497F}|UniStuff\\UniStuff.csproj|solutionrelative:unistuff\\data\\unidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Display.cs",
+              "DocumentMoniker": "C:\\Users\\Student4\\Desktop\\UniStuff\\UniStuff\\Presentation\\Display.cs",
+              "RelativeDocumentMoniker": "UniStuff\\Presentation\\Display.cs",
+              "ToolTip": "C:\\Users\\Student4\\Desktop\\UniStuff\\UniStuff\\Presentation\\Display.cs",
+              "RelativeToolTip": "UniStuff\\Presentation\\Display.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwEUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:26:21.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UniDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Student4\\Desktop\\UniStuff\\UniStuff\\Data\\UniDbContext.cs",
+              "RelativeDocumentMoniker": "UniStuff\\Data\\UniDbContext.cs",
+              "ToolTip": "C:\\Users\\Student4\\Desktop\\UniStuff\\UniStuff\\Data\\UniDbContext.cs",
+              "RelativeToolTip": "UniStuff\\Data\\UniDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T05:47:19.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student4\\Desktop\\UniStuff\\UniStuff\\Program.cs",
+              "RelativeDocumentMoniker": "UniStuff\\Program.cs",
+              "ToolTip": "C:\\Users\\Student4\\Desktop\\UniStuff\\UniStuff\\Program.cs",
+              "RelativeToolTip": "UniStuff\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T05:40:23.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
