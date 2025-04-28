@@ -1,0 +1,154 @@
+Exercise 1: "Hello, World!"
+Objective: Understand basic syntax and how to execute a script.
+
+Task: Write a Bash script that prints "Hello, World!" to the terminal.
+
+Instructions:
+Open a terminal and create a new file called hello.sh.
+Write the script to print "Hello, World!".
+Make the script executable and run it.
+
+Exercise 2: File Permissions
+Objective: Work with file permissions in a script.
+Task: Write a Bash script that changes the permissions of a given file to read, 
+write, and execute for the owner, and read and execute for everyone else.
+
+Instructions:
+Create a file named file.txt.
+Write a script that uses chmod to modify its permissions.
+Verify that the permissions are changed.
+Solution:
+
+#!/bin/bash
+chmod 755 $1
+echo "Permissions of $1 have been changed to 755."
+Note: $1 refers to the first command-line argument (the filename).
+
+Exercise 3: User Input
+Objective: Learn how to accept user input in a script.
+Task: Write a script that asks for the user’s name and then greets them by name.
+
+Instructions:
+The script should prompt for the user’s name.
+The script should print a greeting that includes the user’s name.
+Solution:
+
+#!/bin/bash
+echo "What is your name?"
+read name
+echo "Hello, $name!"
+Exercise 4: Basic File Operations
+Objective: Perform file operations like copying, moving, and deleting files.
+
+Task: Write a script that backs up a given file by copying it to a backup directory, appends the current date to the backup file, and then deletes the original file.
+
+Instructions:
+Create a file named important_file.txt.
+Write a script that performs the backup and deletion.
+Make sure that the backup file is named with the date, like important_file_YYYYMMDD.txt.
+
+Solution:
+#!/bin/bash
+filename=$1
+backup_dir=$2
+date=$(date +%Y%m%d)
+cp "$filename" "$backup_dir/${filename%.*}_$date.${filename##*.}"
+rm "$filename"
+echo "Backup complete. Original file deleted."
+Usage: ./backup.sh important_file.txt /path/to/backup.
+
+Exercise 5: Loop and Conditionals
+Objective: Understand the use of loops and conditionals.
+Task: Write a script that prints numbers from 1 to 10, but if the number is 
+divisible by 2, print "Even" next to the number; if divisible by 3, print "Odd".
+
+Instructions:
+Use a for loop to print the numbers.
+Use if conditions to check if the number is divisible by 2 or 3.
+
+Solution:
+#!/bin/bash
+for i in {1..10}
+do
+    if (( i % 2 == 0 )) && (( i % 3 == 0 )); then
+        echo "$i: Even and Odd"
+    elif (( i % 2 == 0 )); then
+        echo "$i: Even"
+    elif (( i % 3 == 0 )); then
+        echo "$i: Odd"
+    else
+        echo "$i"
+    fi
+done
+
+Exercise 6: Check If a File Exists
+Objective: Learn how to check if a file exists in a script.
+Task: Write a script that takes a file name as an argument and checks if 
+the file exists. If the file exists, print a message saying so. If not, print an error message.
+
+Instructions:
+The script should use if to check if the file exists using -e.
+Display the appropriate message based on the check.
+Solution:
+
+#!/bin/bash
+if [ -e "$1" ]; then
+    echo "File $1 exists."
+else
+    echo "Error: File $1 does not exist."
+fi
+
+Exercise 7: Simple Calculator
+Objective: Implement basic arithmetic in a script.
+Task: Write a script that takes two numbers and an operator (+, -, *, /) 
+as arguments and performs the corresponding operation.
+
+Instructions:
+The script should take three command-line arguments: two numbers and an operator.
+Based on the operator, perform the calculation and print the result.
+Solution:
+
+#!/bin/bash
+num1=$1
+num2=$2
+operator=$3
+
+case $operator in
+    +)
+        result=$((num1 + num2))
+        ;;
+    -)
+        result=$((num1 - num2))
+        ;;
+    \*)
+        result=$((num1 * num2))
+        ;;
+    /)
+        if [ $num2 -eq 0 ]; then
+            echo "Error: Division by zero!"
+            exit 1
+        else
+            result=$((num1 / num2))
+        fi
+        ;;
+    *)
+        echo "Error: Invalid operator. Use +, -, *, or /."
+        exit 1
+        ;;
+esac
+echo "Result: $result"
+Usage: ./calculator.sh 5 3 +.
+
+Exercise 8: Directory Cleanup
+Objective: Automate directory cleanup tasks.
+Task: Write a script that deletes all .log files in a directory older than 7 days.
+
+Instructions:
+The script should use find to locate .log files older than 7 days.
+Delete the files and display a message indicating how many files were deleted.
+Solution:
+
+#!/bin/bash
+directory=$1
+find "$directory" -name "*.log" -mtime +7 -exec rm {} \;
+echo "Deleted all .log files older than 7 days in $directory."
