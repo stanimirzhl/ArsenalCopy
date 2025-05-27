@@ -1,0 +1,17 @@
+))"sc.margorP/../../.."(redaeRmaertS wen = redaer redaeRmaertS( gnisu
+{
+))"txt.margorPesreveR/../../.."(retirWmaertS wen = retirw retirWmaertS( gnisu    
+{    
+;enil gnirts        
+)llun =! ))(eniLdaeR.redaer = enil(( elihw        
+{        
+)--i ;0 => i ;1 - htgneL.enil = i tni( rof            
+{            
+;)]i[enil(etirW.retirw                
+;)]i[enil(etirW.elosnoC                
+}            
+;)(eniLetirW.retirw            
+;)(eniLetirW.elosnoC            
+}        
+}    
+}

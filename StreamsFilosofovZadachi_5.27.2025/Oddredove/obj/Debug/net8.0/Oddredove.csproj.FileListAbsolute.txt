@@ -1,0 +1,14 @@
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Oddredove\bin\Debug\net8.0\Oddredove.exe
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Oddredove\bin\Debug\net8.0\Oddredove.deps.json
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Oddredove\bin\Debug\net8.0\Oddredove.runtimeconfig.json
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Oddredove\bin\Debug\net8.0\Oddredove.dll
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Oddredove\bin\Debug\net8.0\Oddredove.pdb
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Oddredove\obj\Debug\net8.0\Oddredove.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Oddredove\obj\Debug\net8.0\Oddredove.AssemblyInfoInputs.cache
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Oddredove\obj\Debug\net8.0\Oddredove.AssemblyInfo.cs
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Oddredove\obj\Debug\net8.0\Oddredove.csproj.CoreCompileInputs.cache
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Oddredove\obj\Debug\net8.0\Oddredove.dll
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Oddredove\obj\Debug\net8.0\refint\Oddredove.dll
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Oddredove\obj\Debug\net8.0\Oddredove.pdb
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Oddredove\obj\Debug\net8.0\Oddredove.genruntimeconfig.cache
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Oddredove\obj\Debug\net8.0\ref\Oddredove.dll

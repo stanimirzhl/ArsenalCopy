@@ -1,0 +1,14 @@
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Streams(FilosofovZadachi)\bin\Debug\net8.0\Streams(FilosofovZadachi).exe
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Streams(FilosofovZadachi)\bin\Debug\net8.0\Streams(FilosofovZadachi).deps.json
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Streams(FilosofovZadachi)\bin\Debug\net8.0\Streams(FilosofovZadachi).runtimeconfig.json
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Streams(FilosofovZadachi)\bin\Debug\net8.0\Streams(FilosofovZadachi).dll
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Streams(FilosofovZadachi)\bin\Debug\net8.0\Streams(FilosofovZadachi).pdb
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Streams(FilosofovZadachi)\obj\Debug\net8.0\Streams(FilosofovZadachi).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Streams(FilosofovZadachi)\obj\Debug\net8.0\Streams(FilosofovZadachi).AssemblyInfoInputs.cache
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Streams(FilosofovZadachi)\obj\Debug\net8.0\Streams(FilosofovZadachi).AssemblyInfo.cs
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Streams(FilosofovZadachi)\obj\Debug\net8.0\Streams(FilosofovZadachi).csproj.CoreCompileInputs.cache
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Streams(FilosofovZadachi)\obj\Debug\net8.0\Streams(FilosofovZadachi).dll
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Streams(FilosofovZadachi)\obj\Debug\net8.0\refint\Streams(FilosofovZadachi).dll
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Streams(FilosofovZadachi)\obj\Debug\net8.0\Streams(FilosofovZadachi).pdb
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Streams(FilosofovZadachi)\obj\Debug\net8.0\Streams(FilosofovZadachi).genruntimeconfig.cache
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Streams(FilosofovZadachi)\obj\Debug\net8.0\ref\Streams(FilosofovZadachi).dll

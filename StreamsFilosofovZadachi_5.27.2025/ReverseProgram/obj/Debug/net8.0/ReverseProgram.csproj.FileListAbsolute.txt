@@ -1,0 +1,14 @@
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\ReverseProgram\bin\Debug\net8.0\ReverseProgram.exe
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\ReverseProgram\bin\Debug\net8.0\ReverseProgram.deps.json
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\ReverseProgram\bin\Debug\net8.0\ReverseProgram.runtimeconfig.json
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\ReverseProgram\bin\Debug\net8.0\ReverseProgram.dll
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\ReverseProgram\bin\Debug\net8.0\ReverseProgram.pdb
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\ReverseProgram\obj\Debug\net8.0\ReverseProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\ReverseProgram\obj\Debug\net8.0\ReverseProgram.AssemblyInfoInputs.cache
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\ReverseProgram\obj\Debug\net8.0\ReverseProgram.AssemblyInfo.cs
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\ReverseProgram\obj\Debug\net8.0\ReverseProgram.csproj.CoreCompileInputs.cache
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\ReverseProgram\obj\Debug\net8.0\ReverseProgram.dll
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\ReverseProgram\obj\Debug\net8.0\refint\ReverseProgram.dll
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\ReverseProgram\obj\Debug\net8.0\ReverseProgram.pdb
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\ReverseProgram\obj\Debug\net8.0\ReverseProgram.genruntimeconfig.cache
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\ReverseProgram\obj\Debug\net8.0\ref\ReverseProgram.dll

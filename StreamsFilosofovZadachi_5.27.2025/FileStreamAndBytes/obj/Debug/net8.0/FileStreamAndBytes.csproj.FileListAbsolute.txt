@@ -1,0 +1,14 @@
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\FileStreamAndBytes\bin\Debug\net8.0\FileStreamAndBytes.exe
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\FileStreamAndBytes\bin\Debug\net8.0\FileStreamAndBytes.deps.json
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\FileStreamAndBytes\bin\Debug\net8.0\FileStreamAndBytes.runtimeconfig.json
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\FileStreamAndBytes\bin\Debug\net8.0\FileStreamAndBytes.dll
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\FileStreamAndBytes\bin\Debug\net8.0\FileStreamAndBytes.pdb
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\FileStreamAndBytes\obj\Debug\net8.0\FileStreamAndBytes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\FileStreamAndBytes\obj\Debug\net8.0\FileStreamAndBytes.AssemblyInfoInputs.cache
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\FileStreamAndBytes\obj\Debug\net8.0\FileStreamAndBytes.AssemblyInfo.cs
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\FileStreamAndBytes\obj\Debug\net8.0\FileStreamAndBytes.csproj.CoreCompileInputs.cache
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\FileStreamAndBytes\obj\Debug\net8.0\FileStreamAndBytes.dll
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\FileStreamAndBytes\obj\Debug\net8.0\refint\FileStreamAndBytes.dll
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\FileStreamAndBytes\obj\Debug\net8.0\FileStreamAndBytes.pdb
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\FileStreamAndBytes\obj\Debug\net8.0\FileStreamAndBytes.genruntimeconfig.cache
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\FileStreamAndBytes\obj\Debug\net8.0\ref\FileStreamAndBytes.dll

@@ -1,0 +1,14 @@
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\CryptoStreamer\bin\Debug\net8.0\CryptoStreamer.exe
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\CryptoStreamer\bin\Debug\net8.0\CryptoStreamer.deps.json
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\CryptoStreamer\bin\Debug\net8.0\CryptoStreamer.runtimeconfig.json
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\CryptoStreamer\bin\Debug\net8.0\CryptoStreamer.dll
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\CryptoStreamer\bin\Debug\net8.0\CryptoStreamer.pdb
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\CryptoStreamer\obj\Debug\net8.0\CryptoStreamer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\CryptoStreamer\obj\Debug\net8.0\CryptoStreamer.AssemblyInfoInputs.cache
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\CryptoStreamer\obj\Debug\net8.0\CryptoStreamer.AssemblyInfo.cs
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\CryptoStreamer\obj\Debug\net8.0\CryptoStreamer.csproj.CoreCompileInputs.cache
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\CryptoStreamer\obj\Debug\net8.0\CryptoStreamer.dll
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\CryptoStreamer\obj\Debug\net8.0\refint\CryptoStreamer.dll
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\CryptoStreamer\obj\Debug\net8.0\CryptoStreamer.pdb
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\CryptoStreamer\obj\Debug\net8.0\CryptoStreamer.genruntimeconfig.cache
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\CryptoStreamer\obj\Debug\net8.0\ref\CryptoStreamer.dll

@@ -1,0 +1,11 @@
+﻿using (StreamReader reader = new StreamReader("../../../Program.cs"))
+{
+    using (StreamWriter writer = new StreamWriter("../../../Program.txt"))
+    {
+        string line;
+        while ((line = reader.ReadLine()) != null)
+        {
+            writer.WriteLine(line);
+        }
+    }
+}

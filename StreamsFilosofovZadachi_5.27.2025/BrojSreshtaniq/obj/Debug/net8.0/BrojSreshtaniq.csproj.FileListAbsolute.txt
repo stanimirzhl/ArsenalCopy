@@ -1,0 +1,14 @@
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\BrojSreshtaniq\bin\Debug\net8.0\BrojSreshtaniq.exe
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\BrojSreshtaniq\bin\Debug\net8.0\BrojSreshtaniq.deps.json
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\BrojSreshtaniq\bin\Debug\net8.0\BrojSreshtaniq.runtimeconfig.json
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\BrojSreshtaniq\bin\Debug\net8.0\BrojSreshtaniq.dll
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\BrojSreshtaniq\bin\Debug\net8.0\BrojSreshtaniq.pdb
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\BrojSreshtaniq\obj\Debug\net8.0\BrojSreshtaniq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\BrojSreshtaniq\obj\Debug\net8.0\BrojSreshtaniq.AssemblyInfoInputs.cache
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\BrojSreshtaniq\obj\Debug\net8.0\BrojSreshtaniq.AssemblyInfo.cs
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\BrojSreshtaniq\obj\Debug\net8.0\BrojSreshtaniq.csproj.CoreCompileInputs.cache
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\BrojSreshtaniq\obj\Debug\net8.0\BrojSreshtaniq.dll
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\BrojSreshtaniq\obj\Debug\net8.0\refint\BrojSreshtaniq.dll
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\BrojSreshtaniq\obj\Debug\net8.0\BrojSreshtaniq.pdb
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\BrojSreshtaniq\obj\Debug\net8.0\BrojSreshtaniq.genruntimeconfig.cache
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\BrojSreshtaniq\obj\Debug\net8.0\ref\BrojSreshtaniq.dll

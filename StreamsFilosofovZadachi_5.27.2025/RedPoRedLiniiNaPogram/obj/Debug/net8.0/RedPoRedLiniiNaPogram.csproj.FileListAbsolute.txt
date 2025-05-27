@@ -1,0 +1,14 @@
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\RedPoRedLiniiNaPogram\bin\Debug\net8.0\RedPoRedLiniiNaPogram.exe
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\RedPoRedLiniiNaPogram\bin\Debug\net8.0\RedPoRedLiniiNaPogram.deps.json
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\RedPoRedLiniiNaPogram\bin\Debug\net8.0\RedPoRedLiniiNaPogram.runtimeconfig.json
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\RedPoRedLiniiNaPogram\bin\Debug\net8.0\RedPoRedLiniiNaPogram.dll
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\RedPoRedLiniiNaPogram\bin\Debug\net8.0\RedPoRedLiniiNaPogram.pdb
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\RedPoRedLiniiNaPogram\obj\Debug\net8.0\RedPoRedLiniiNaPogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\RedPoRedLiniiNaPogram\obj\Debug\net8.0\RedPoRedLiniiNaPogram.AssemblyInfoInputs.cache
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\RedPoRedLiniiNaPogram\obj\Debug\net8.0\RedPoRedLiniiNaPogram.AssemblyInfo.cs
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\RedPoRedLiniiNaPogram\obj\Debug\net8.0\RedPoRedLiniiNaPogram.csproj.CoreCompileInputs.cache
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\RedPoRedLiniiNaPogram\obj\Debug\net8.0\RedPoRedLiniiNaPogram.dll
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\RedPoRedLiniiNaPogram\obj\Debug\net8.0\refint\RedPoRedLiniiNaPogram.dll
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\RedPoRedLiniiNaPogram\obj\Debug\net8.0\RedPoRedLiniiNaPogram.pdb
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\RedPoRedLiniiNaPogram\obj\Debug\net8.0\RedPoRedLiniiNaPogram.genruntimeconfig.cache
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\RedPoRedLiniiNaPogram\obj\Debug\net8.0\ref\RedPoRedLiniiNaPogram.dll

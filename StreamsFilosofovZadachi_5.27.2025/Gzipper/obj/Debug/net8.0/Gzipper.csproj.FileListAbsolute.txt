@@ -1,0 +1,14 @@
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Gzipper\bin\Debug\net8.0\Gzipper.exe
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Gzipper\bin\Debug\net8.0\Gzipper.deps.json
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Gzipper\bin\Debug\net8.0\Gzipper.runtimeconfig.json
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Gzipper\bin\Debug\net8.0\Gzipper.dll
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Gzipper\bin\Debug\net8.0\Gzipper.pdb
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Gzipper\obj\Debug\net8.0\Gzipper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Gzipper\obj\Debug\net8.0\Gzipper.AssemblyInfoInputs.cache
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Gzipper\obj\Debug\net8.0\Gzipper.AssemblyInfo.cs
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Gzipper\obj\Debug\net8.0\Gzipper.csproj.CoreCompileInputs.cache
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Gzipper\obj\Debug\net8.0\Gzipper.dll
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Gzipper\obj\Debug\net8.0\refint\Gzipper.dll
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Gzipper\obj\Debug\net8.0\Gzipper.pdb
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Gzipper\obj\Debug\net8.0\Gzipper.genruntimeconfig.cache
+C:\Users\Student4\Desktop\Streams(FilosofovZadachi)\Gzipper\obj\Debug\net8.0\ref\Gzipper.dll

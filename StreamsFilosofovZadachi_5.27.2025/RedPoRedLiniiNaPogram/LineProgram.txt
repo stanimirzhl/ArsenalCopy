@@ -1,0 +1,15 @@
+Line 1: using (StreamReader reader = new StreamReader("../../../Program.cs"))
+Line 2: {
+Line 3: 	using (StreamWriter write = new StreamWriter("../../../LineProgram.txt"))
+Line 4: 	{
+Line 5:         int lineNumber = 0;
+Line 6:         string line;
+Line 7:         while ((line = reader.ReadLine()) != null)
+Line 8:         {
+Line 9:             lineNumber++;
+Line 10:             string message = $"Line {lineNumber}: {line}";
+Line 11:             Console.WriteLine(message);
+Line 12:             write.WriteLine(message);
+Line 13:         }
+Line 14:     }
+Line 15: }
